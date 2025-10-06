@@ -1,0 +1,51 @@
+{
+    "initial_release": "2015-07-29",
+    "chromium_release": "2020-01-15",
+    "versions": [
+        {
+            "os": "Windows 10",
+            "year": 2015,
+            "notes": "Legacy Edge introduced"
+        },
+        {
+            "os": "Windows 10 v20H2+",
+            "year": 2020,
+            "notes": "Chromium Edge bundled"
+        },
+        {
+            "os": "Windows 11",
+            "year": 2021,
+            "notes": "Edge only browser"
+        }
+    ],
+    "milestones": [
+        {
+            "year": 2015,
+            "event": "Edge replaces IE in Windows 10"
+        },
+        {
+            "year": 2017,
+            "event": "Mobile versions for Android & iOS"
+        },
+        {
+            "year": 2018,
+            "event": "Chromium rebuild announced"
+        },
+        {
+            "year": 2019,
+            "event": "Preview builds of Chromium Edge released"
+        },
+        {
+            "year": 2020,
+            "event": "Stable Chromium Edge released globally"
+        },
+        {
+            "year": 2021,
+            "event": "Edge ships with Windows 11; IE deprecated"
+        },
+        {
+            "year": 2023,
+            "event": "Edge becomes 3rd most popular browser globally"
+        }
+    ]
+}
